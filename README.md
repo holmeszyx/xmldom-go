@@ -1,0 +1,1 @@
+This is a fork of https://bitbucket.org/rj/xmldom-go
